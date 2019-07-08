@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz
-  if i%3
+  if i % 3 ==0
   fizz_3 = fizzbuzz(3)
   return "Fizz"
 end
